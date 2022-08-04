@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogFragment</string>
+    <string name="ok">OK</string>
+    <string name="test_dialog_fragment">Test Dialog Fragment</string>
+</resources>
